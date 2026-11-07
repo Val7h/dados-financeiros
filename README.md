@@ -147,7 +147,7 @@ Visualização Web - Tabela 655 (IPCA - Ago/1999 a Jun/2006) [IBGE]: https://sid
 
 ### AÇÕES - FUNDAMENTALISTA
 
-Dados B3 (API REST + MCP) - Info: https://dados-b3.onrender.com
+Dados B3 (API REST + MCP, 36 ferramentas somente leitura, sem chave) - Info: https://dadosb3.com - MCP: https://dadosb3.com/mcp
 Fundamentus: https://fundamentus.com.br/
 \
 Oceans14: https://www.oceans14.com.br/
